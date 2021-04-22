@@ -45,7 +45,7 @@ var arraySum = function(array) {
   return sum;
 };
 
-// 4. Check if a number is even.
+// 4. Check if a number is even...s.
 var isEven = function(n) {
   var x = Math.abs(n);
   if (x === 0){
